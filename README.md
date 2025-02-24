@@ -1,2 +1,2 @@
 # python-cards
-Basic python library that plays card games in the terminal [Intro to OOP]
+Basic python package that plays card games in the terminal [Intro to OOP]

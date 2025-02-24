@@ -1,5 +1,5 @@
 
-from casino.utils import cards
+from cardgames.utils import cards
 
 class Player:
 
